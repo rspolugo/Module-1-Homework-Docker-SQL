@@ -6,4 +6,8 @@
    $ winpty docker run -it --entrypoint bash python:3.12.8
    root@1b36c9a0d91e:/# pip --version
    pip 24.3.1 from /usr/local/lib/python3.12/site-packages/pip (python 3.12)
-
+   ```
+## Task 2:
+```bash
+db:5432
+```
